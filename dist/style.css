@@ -1,0 +1,52 @@
+body {
+  font-family: 'Roboto Mono',monospace;
+  min-height: 400px;
+  background-image: url('https://www.redclara.net/images/Human_Brain_Project_ES.jpg');
+  background-color: black;
+  background-size: 80vh;
+  background-position: Right;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: left;
+  padding: 20px;
+  height: 100vh;
+}
+
+.page-title {
+  color:#ffffff;
+  margin: 0 0 5px;
+}
+
+.page-subtitle {
+  color:#ffffff;
+  margin-top: 5px;
+}
+
+
+.div-Input{
+  width: 180px;
+  background-color: #7D6608;
+  text-align: center;
+  color: black;
+}
+
+button {
+ border-radius: 70px; /*resp pelo arredondamento do buttom*/
+ } 
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+label {
+  color: white;
+}
+
+.page-logo {
+  width: 300px;
+  position: Left;
